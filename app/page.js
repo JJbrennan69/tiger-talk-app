@@ -149,7 +149,7 @@ export default function Home() {
             <h1 style={{ margin: 0, color: "#fff", fontSize: 22, fontWeight: 800, letterSpacing: "-0.5px" }}>
               TIGER <span style={{ color: ORANGE }}>TALK</span>
             </h1>
-            <p style={{ margin: 0, color: "#888", fontSize: 12, letterSpacing: 1.5, textTransform: "uppercase" }}>Chat About Anything</p>
+            <p style={{ margin: 0, color: "#888", fontSize: 12, letterSpacing: 1.5, textTransform: "uppercase" }}>If You Ain't Talkin Tigers, You Ain't Talkin Life</p>
           </div>
         </div>
         <div style={{ display: "flex", gap: 6, alignItems: "center" }}>
